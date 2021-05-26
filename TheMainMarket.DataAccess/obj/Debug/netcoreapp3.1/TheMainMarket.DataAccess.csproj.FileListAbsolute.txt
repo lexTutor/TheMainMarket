@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\bin\Debug\netcoreapp3.1\TheMainMarket.DataAccess.deps.json
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\bin\Debug\netcoreapp3.1\TheMainMarket.DataAccess.dll
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\bin\Debug\netcoreapp3.1\TheMainMarket.DataAccess.pdb
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\bin\Debug\netcoreapp3.1\TheMainMarket.Models.dll
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\bin\Debug\netcoreapp3.1\TheMainMarket.Models.pdb
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\obj\Debug\netcoreapp3.1\TheMainMarket.DataAccess.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\obj\Debug\netcoreapp3.1\TheMainMarket.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\obj\Debug\netcoreapp3.1\TheMainMarket.DataAccess.AssemblyInfo.cs
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\obj\Debug\netcoreapp3.1\TheMainMarket.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\obj\Debug\netcoreapp3.1\TheMainMarket.DataAccess.csproj.CopyComplete
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\obj\Debug\netcoreapp3.1\TheMainMarket.DataAccess.dll
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DataAccess\obj\Debug\netcoreapp3.1\TheMainMarket.DataAccess.pdb

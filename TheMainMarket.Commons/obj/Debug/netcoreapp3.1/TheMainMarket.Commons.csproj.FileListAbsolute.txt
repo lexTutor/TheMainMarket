@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.Commons\bin\Debug\netcoreapp3.1\TheMainMarket.Commons.deps.json
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.Commons\bin\Debug\netcoreapp3.1\TheMainMarket.Commons.dll
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.Commons\bin\Debug\netcoreapp3.1\TheMainMarket.Commons.pdb
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.Commons\obj\Debug\netcoreapp3.1\TheMainMarket.Commons.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.Commons\obj\Debug\netcoreapp3.1\TheMainMarket.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.Commons\obj\Debug\netcoreapp3.1\TheMainMarket.Commons.AssemblyInfo.cs
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.Commons\obj\Debug\netcoreapp3.1\TheMainMarket.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.Commons\obj\Debug\netcoreapp3.1\TheMainMarket.Commons.dll
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.Commons\obj\Debug\netcoreapp3.1\TheMainMarket.Commons.pdb

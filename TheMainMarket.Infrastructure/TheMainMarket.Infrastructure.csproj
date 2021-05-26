@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HotChocolate.AspNetCore" Version="11.2.2" />
+    <PackageReference Include="HotChocolate.AspNetCore.Authorization" Version="11.2.2" />
+    <PackageReference Include="HotChocolate.Data.EntityFramework" Version="11.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.6" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.11.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TheMainMarket.Commons\TheMainMarket.Commons.csproj" />
+    <ProjectReference Include="..\TheMainMarket.Core\TheMainMarket.Core.csproj" />
+    <ProjectReference Include="..\TheMainMarket.DataAccess\TheMainMarket.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

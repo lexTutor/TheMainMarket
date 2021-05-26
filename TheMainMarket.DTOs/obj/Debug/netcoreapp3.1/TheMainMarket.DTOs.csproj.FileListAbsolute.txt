@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DTOs\bin\Debug\netcoreapp3.1\TheMainMarket.DTOs.deps.json
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DTOs\bin\Debug\netcoreapp3.1\TheMainMarket.DTOs.dll
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DTOs\bin\Debug\netcoreapp3.1\TheMainMarket.DTOs.pdb
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DTOs\obj\Debug\netcoreapp3.1\TheMainMarket.DTOs.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DTOs\obj\Debug\netcoreapp3.1\TheMainMarket.DTOs.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DTOs\obj\Debug\netcoreapp3.1\TheMainMarket.DTOs.AssemblyInfo.cs
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DTOs\obj\Debug\netcoreapp3.1\TheMainMarket.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DTOs\obj\Debug\netcoreapp3.1\TheMainMarket.DTOs.dll
+C:\Users\hp\source\repos\TheMainMarket\TheMainMarket.DTOs\obj\Debug\netcoreapp3.1\TheMainMarket.DTOs.pdb
